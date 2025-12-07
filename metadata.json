@@ -1,0 +1,5 @@
+{
+  "name": "TradeFlow Journal",
+  "description": "A comprehensive, privacy-focused trading journal. Track your performance, analyze equity curves, and manage your trades with a clean, dark-mode enabled interface backed by Firestore.",
+  "requestFramePermissions": []
+}
